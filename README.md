@@ -2,11 +2,15 @@
 
 Xray!
 
-会一点逆向,但是不多,~随时删除的库~
+会一点逆向,但是不多,随时删除的库~
+ 
+只会一点点点的x86，所以不会对arm程序进行支持。。。
+ 
+2·仅测试了windwos_amd64和linux_amd，macos x86未进行测试，可能会有效？
  
  # Introduction
- 
-I will upload the Xray crack version today. However, it is only for learning and testing. Do not use it for illegal attacks, or you will bear the consequences. This repositories will be deleted at any time.
+
+该程序仅仅提供给个人学习和测试使用，第三方
 
 # Method
 
