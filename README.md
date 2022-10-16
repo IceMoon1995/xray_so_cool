@@ -6,7 +6,7 @@ Xray!
  
 只会一点点点的x86，所以不会对arm程序进行支持。。。
  
-2·仅测试了windwos_amd64和linux_amd，macos_amd64未进行完全测试，可能会有效？
+仅简单测试了windwos_amd64、linux_amd和macos_amd64环境，程序任何bug与本人无关，本人不对程序的可靠性，可用性负责，也不会提供技术支持。
  
  # Introduction
 
