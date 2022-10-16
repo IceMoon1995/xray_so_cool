@@ -1,5 +1,8 @@
 # xray_so_cool
-Xray1.9.3 heiheihei!
+
+Xray!
+
+会一点逆向，但是不多~随时删除的库~
  
  # Introduction
  
